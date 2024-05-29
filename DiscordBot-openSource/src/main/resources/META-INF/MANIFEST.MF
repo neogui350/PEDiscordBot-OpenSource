@@ -1,0 +1,2 @@
+Manifest-Version: 1.0.6-SNAPSHOT
+Main-Class: me.neogui350.Main
